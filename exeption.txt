@@ -1,0 +1,13 @@
+exception: 2 loại
+
+-trong exception: check - uncheck exception.
+	- indexOutOfBoundException: vd mảng cấp 4 phần tử mà 
+	lại nhập phần tử thứ 5
+	- NumberFormatE: vẻ nhập số mà lại nhập kí tự
+	-IOException:
+	+ uncheckE: là k báo lỗi
+	+ checkE: có báo lỗi, vd vẻ sd try/catch
+	
+link: Viettust.vn
+
+-định dạng ngày tháng thì dùng simpledateformat
